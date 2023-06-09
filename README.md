@@ -9,7 +9,7 @@
   There have also been many tweaks and software to add more function, but will be scheduled to change paid apps for open source alternatives as the project progresses.
 
 # Downloads
-[Updated]
+[placeholder]
 
 ## [Windows Fusion 22.6 - Build 1755]()
   
