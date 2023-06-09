@@ -1,6 +1,6 @@
 # Windows Fusion: Home & Pro
 
-![alt text](https://i.imgur.com/9UMZdU6.png)
+![alt text](https://i.imgur.com/VeOrthl.png)
 
 # Info
   This projects aims to be what Windows 11 should have been. A light and modern OS to imrpove legacy systems and add a modern design for newer devices.
